@@ -1,0 +1,19 @@
+{
+  "name": "v13-nsfw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "nekos.life": "^2.0.7",
+    "node": "^16.6.1",
+    "nsfw-discord": "^7.0.0",
+    "superagent": "^6.1.0"
+  }
+}
